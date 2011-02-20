@@ -44,4 +44,3 @@ category to figure out what shared items in reader are new.
 
 If you'd like to sytle the links in the post you can add a section in you're CSS file for links with a
 clas="digestLink".
-

@@ -35,7 +35,7 @@ Author URI: http://andrewjesaitis.com
 
 /***************************************
 *SET UP FUNCTIONS
-***************************************/
+****************************************/
 register_activation_hook(__FILE__, 'add_defaults_fn');
 add_action('admin_menu', 'rd_create_menu');
 add_action('admin_init', 'register_mysettings' );
