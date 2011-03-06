@@ -304,11 +304,10 @@ function rd_get_data(){
 			break; //only want first element
 		}
 		//Get rid of entries that have been posted before
-		foreach ($feedArr as $entry){
+		foreach ($feedArr as $key=>$entry){
 			if($entry['timestamp'] < $cutoffTime){
-				$key = key($feedArr);
 				//trucate array
-				array_splice($feedArr, ($key + 1));
+				array_splice($feedArr, ($key));
 			}
 		}
 		return $feedArr;	
