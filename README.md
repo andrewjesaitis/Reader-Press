@@ -1,12 +1,12 @@
 #Reader Press
-Author: Andrew Jesaitis
-Author URI: http://andrewjesaitis.com/
-Plugin URI: http://andrewjesaitis.com/projects/reader-digest
-Tags: google, reader, shareditems, feed, rss, post, digest, automatic
-Requires at least: 2.8
-Tested up to: 3.0.5
+- Author: Andrew Jesaitis
+- Author URI: http://andrewjesaitis.com/
+- Plugin URI: http://andrewjesaitis.com/projects/reader-digest
+- Tags: google, reader, shareditems, feed, rss, post, digest, automatic
+- Requires at least: 2.8
+- Tested up to: 3.0.5
 
-With the death of Google Reader comes the death of Reader Press. RIP.
+*With the death of Google Reader comes the death of Reader Press. RIP.*
 
 ###Installation
 First, copy the reader-digest.php file to your plugin directory.
@@ -18,12 +18,12 @@ Now we need to set up the options you'd like to use.
 Here's how I do it:
 
 1. Get Feed URL
-a. Go to Google Reader
-b. Click on shared items
-c. Click on Sharing settings (Right hand side of header)
-d. Click on "Preview your shared items page in a new window"
-e. Click on atom feed icon
-f. Copy this atom feed url to the field below
+	+ Go to Google Reader
+	+ Click on shared items
+	+ Click on Sharing settings (Right hand side of header)
+	+ Click on "Preview your shared items page in a new window"
+	+ Click on atom feed icon
+	+ Copy this atom feed url to the field below
 
 2. Enter a time when you'd like to post. Please note this is currently sync'd to EST.
 
