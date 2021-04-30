@@ -8,7 +8,7 @@ Author: Andrew Jesaitis
 Author URI: http://andrewjesaitis.com
 */
 
-//Copyright 2010  Andrew Jesaitis  (email : andrew@andrewjesaitis.com)
+//Copyright 2010  Andrew Jesaitis
 //
 //    This program is free software; you can redistribute it and/or modify
 //    it under the terms of the GNU General Public License as published by
